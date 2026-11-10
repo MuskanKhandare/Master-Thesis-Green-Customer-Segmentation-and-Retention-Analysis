@@ -1,5 +1,6 @@
 # Master-Thesis-Green-Customer-Segmentation-and-Retention-Analysis
 Green Customer Segmentation and Retention Analysis  Do customers who buy more sustainably also stay more loyal? This project tests that common marketing assumption on a real retail dataset of 2,212 customers, using customer segmentation, a purchase-inactivity model, and explainable AI.
+
 **Overview**
 Built as part of a Master’s thesis at the University of Europe for Applied Sciences. The analysis combines:
 1) RFM feature engineering (Recency, Frequency, Monetary), plus a Green Ratio feature: the share of each customer’s spending on fruit and fish, used as a spending-based proxy for green preference
